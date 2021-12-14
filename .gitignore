@@ -1,0 +1,4 @@
+# virtual env
+venv/
+# database sqlite3
+src/db.sqlite3
